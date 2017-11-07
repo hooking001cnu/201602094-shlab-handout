@@ -4,6 +4,7 @@
  * <Put your name and login ID here>
    c201602084
    Hwang Keun Young
+   Any String
  */
 #include <stdio.h>
 #include <stdlib.h>
